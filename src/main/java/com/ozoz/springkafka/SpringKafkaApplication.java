@@ -9,6 +9,10 @@ import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.kafka.config.TopicBuilder;
 import org.springframework.kafka.support.Acknowledgment;
 
+/**
+ * @author: cnljj1995@gmail.com
+ * @Date: 2022/2/10
+ */
 @SpringBootApplication
 public class SpringKafkaApplication {
 
